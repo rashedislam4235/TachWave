@@ -1,3 +1,18 @@
 .inter-font{
-    
+
+}
+#hero{
+    background: url("./assets/hero-bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.image{
+    background: url("./assets/hero-circle.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.spbutton{
+    box-shadow: 0 3px 27px 0px #00FF88;
 }
