@@ -16,3 +16,22 @@
 .spbutton{
     box-shadow: 0 3px 27px 0px #00FF88;
 }
+.footer{
+     background: url("./assets/footer-bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+@media screen and (max-width: 675px) {
+    .footer{
+     background: url("./assets/footer-bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+    
+    
+    
+}
+
+    
+}
