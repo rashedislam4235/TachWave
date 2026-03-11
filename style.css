@@ -1,17 +1,18 @@
 .inter-font{
 
 }
-#hero{
+.hero{
+    
     background: url("./assets/hero-bg.png");
-    background-repeat: no-repeat;
     background-position: center;
-    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
 }
 .image{
     background: url("./assets/hero-circle.png");
     background-repeat: no-repeat;
     background-position: center;
-    background-size: cover;
+    background-size: 100% 100%;
 }
 .spbutton{
     box-shadow: 0 3px 27px 0px #00FF88;
@@ -27,10 +28,17 @@
      background: url("./assets/footer-bg.png");
     background-repeat: no-repeat;
     background-position: center;
-    background-size: 100% 100%;
+    background-size: 165% 100%;
     
     
     
+}
+.hero{
+    
+    background: url("./assets/hero-bg.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 145% 100%;
 }
 
     
